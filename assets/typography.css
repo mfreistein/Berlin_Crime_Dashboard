@@ -3,6 +3,9 @@
     background-color: black;
 }
 
+.Select input{
+  color:white;
+}
 
 /* changes the text color of input box */
 .Select-value-label {
