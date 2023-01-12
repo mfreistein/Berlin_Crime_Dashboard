@@ -1,6 +1,0 @@
-pandas
-geopandas
-plotly_express
-dash_bootstrap_components
-dash
-gunicorn
