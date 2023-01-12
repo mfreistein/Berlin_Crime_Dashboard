@@ -1,6 +1,6 @@
 pandas
 geopandas
-plotly.express
+plotly_express
 dash_bootstrap_components
 dash
 gunicorn
