@@ -1,5 +1,6 @@
 pandas
 geopandas
-plotly.expressimport Dash, dcc, html, Input, Output 
+plotly.express
 dash_bootstrap_components
 dash
+gunicorn
