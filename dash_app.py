@@ -162,6 +162,8 @@ for variable in dff.columns:
         variable_names = variable_names+temp
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUX])
+server = app.server
+
 
 title = dcc.Markdown(children = "Berlin Crime Dashboard", style={'color': 'white', 'text-align': 'center'})
 
