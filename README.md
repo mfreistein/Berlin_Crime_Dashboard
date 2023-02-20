@@ -6,7 +6,7 @@
 
 •	implemented a range of predictive and forecasting models to support optimal analysis
 
-•	tools included pandas, beautifulsoup, sklearn, sktime, h2o, plotly and dash
+•	tools included pandas, geopandas, sklearn, sktime, h2o, plotly and dash
 
 • The deployed Dashboard can be accessed [here](https://berlin-crime-dashboard.onrender.com/)
 
