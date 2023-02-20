@@ -2,11 +2,11 @@
 
 ## Overview:
 
-•	full stack data project from data collection and wrangling to creating an interactive dashboard
+•	Full stack data project from data collection and wrangling to creating an interactive dashboard
 
-•	implemented a range of predictive and forecasting models to support optimal analysis
+•	Implemented a range of predictive and forecasting models to support optimal analysis
 
-•	tools included pandas, geopandas, sklearn, sktime, h2o, plotly and dash
+•	Tools included pandas, geopandas, sklearn, sktime, h2o, plotly and dash
 
 • The deployed Dashboard can be accessed [here](https://berlin-crime-dashboard.onrender.com/)
 
@@ -32,15 +32,15 @@
 
 • Betting stores and Casinos, 2016-2019
 
-• liqour and tobacco (Spätis), 2016-2019
+• Liqour and tobacco (Spätis), 2016-2019
 
-• number of streets lights, 2021
+• Number of streets lights, 2021
 
-• types of resedential areas (simple, averagea and good), 2012-2020
+• Types of resedential areas (simple, averagea and good), 2012-2020
 
-• traffic accidents, 2018-2020
+• Traffic accidents, 2018-2020
 
-• (there is more data that could be included in later phases of the project, including building structures, local amenities, parks and playgrounds etc.)
+• There is more data that could be included in later phases of the project, including building structures, local amenities, parks and playgrounds etc.
 
 ## Data Sources:
 
