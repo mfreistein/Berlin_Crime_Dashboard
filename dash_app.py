@@ -74,7 +74,8 @@ Bezirksregionen_names = [{"label": region, "value": region} for region in dff_pr
 excluded_variables = ["Total Population", "Area in square kilometers", "key_1", "geometry", "key_2", "year", "Bezirksregion"]
 variable_names = [{"label": var, "value": var} for var in dff.columns if var not in excluded_variables]
 
-app = JupyterDash(__name__, external_stylesheets=[dbc.themes.LUX])
+app = Dash(__name__, external_stylesheets=[dbc.themes.LUX])
+server = app.server
 
 title = dcc.Markdown(children = "Berlin Crime Dashboard", style={'color': 'white', 'text-align': 'center'})
 
@@ -364,4 +365,4 @@ def update_graph(slct_dropdown_region_top, slct_slider_top_region,
     return fig1, fig2, fig3, fig4, fig5
 
 if __name__ == '__main__':
-    app.run_server(mode="jupyterlab", host="127.0.0.1", debug=True, port=8043)
+    app.run_server(host="127.0.0.1", debug=True, port=8044)
