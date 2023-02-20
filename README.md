@@ -5,7 +5,7 @@ Overview:
 •	full stack data project from data collection and wrangling to creating an interactive dashboard
 •	implemented a range of predictive and forecasting models to support optimal analysis
 •	tools included pandas, beautifulsoup, sklearn, sktime, h2o, plotly and dash
-• The deployed Dashboard can be accessed [here][https://berlin-crime-dashboard.onrender.com/]
+• The deployed Dashboard can be accessed [here](https://berlin-crime-dashboard.onrender.com/)
 
 Questions:
 
