@@ -1,6 +1,6 @@
 # Crime Dashboard for Berlin City Planners
 
-Overview:
+## Overview:
 
 •	full stack data project from data collection and wrangling to creating an interactive dashboard
 
@@ -10,7 +10,7 @@ Overview:
 
 • The deployed Dashboard can be accessed [here](https://berlin-crime-dashboard.onrender.com/)
 
-Questions:
+## Questions:
 
 • What types of crime are prominent where?
 
@@ -20,7 +20,7 @@ Questions:
 
 • How is crime developing and what will crime look like in the future in Berlin?
 
-Data:
+## Data:
 
 • Data was available for 143 subdistricts (Bezirksregionen) of Berlin
 
@@ -42,7 +42,7 @@ Data:
 
 • (there is more data that could be included in later phases of the project, including building structures, local amenities, parks and playgrounds etc.)
 
-Data Sources:
+## Data Sources:
 
 • Einwohnerregisterstatistik: [GovData](https://www.govdata.de/daten/-/details/einwohnerinnen-und-einwohner-in-berlin-in-lor-planungsraumen-am-31-12-2020)
 
